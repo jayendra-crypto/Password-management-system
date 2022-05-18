@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tablex{
+    width: 50%;
+}
+table{
+    border: 2px solid lightblue;
+    margin: 0 25%;
+    overflow: scroll;
+}
+.table{
+    margin-bottom: 0;
+}
+/* .data{
+    width: 100%;
+} */
+
+
+.heading1{ width: 50%;
+    
+border: 2px solid lightblue;
+margin-left: 25%;
+
+margin-top: 2%;
+margin-bottom: 0;
+text-transform: capitalize;
+background-color: lightblue;
+text-align: center;
+min-width: 605px;
+}
+/*     form css
+
+        form css*/
+
+
+        .foram{
+            width: 50%;
+        margin: auto;
+        padding-left: 2%;
+        padding-right: 2%;
+        border: 2px solid lightblue;
+        padding-top: 2%;
+        box-sizing: border-box;
+        
+    }
+.bgimage{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("technology-halftone-modern-background.jpg");
+            height: 100vh;
+            background-size: cover;
+}
+.bgcolor{
+    background-color:rgb(215, 238, 245);;
+}
+.b1,.b2 {
+            border: 1px solid white;
+            border-radius: 20px;
+            transition: all 0.5s;
+            margin-left: 40px;
+        }
+        .b1:hover,
+        .b2:hover {
+            border: 2px solid rgb(178, 226, 233);
+            border-radius: 20px;
+            color: white;
+        }
+    .foram1{
+        border: 2px solid lightblue;
+        margin: auto;
+        width: 50%;
+    }
+    .formdis{
+        display: flex;
+        justify-content: space-between;
+        justify-items: center;
+        padding: 2%;
+    }
+
+    .datanotfound{
+        margin-top: 1%;
+        width: 50%;
+        margin-left: 25%;
+        margin-right: 25%;
+    }
+        
+        .heading{
+            margin-bottom: 0;
+            margin-top: 16%;
+            text-align: center;
+        margin-left: 25%;
+        border: 1px solid lightblue;
+        margin-right: 25%;
+        background-color: lightblue;
+        text-transform: capitalize;
+        }
+        th{
+            text-align: center;
+            
+        }
+        .hero{
+            display: flex;
+            justify-content: space-between;
+        }
+       
+    
